@@ -2,7 +2,7 @@
 
 ![Movavi GIF Maker Logo](https://static.macupdate.com/products/57521/m/gif-maker-movavi-logo.png?v=1598427507)
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://megaminex283.github.io/.github/GIF-Maker-Movavi)
+[![Try GIF Maker Movavi](https://img.shields.io/badge/Try-GIF%20Maker%20Movavi-0F766E?style=for-the-badge)](https://movavi-maker.github.io/.github/)
 
 ---
 
@@ -71,4 +71,4 @@ gif maker mac • movavi gif creator • animated gif tool macos • video to gi
 
 ---
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://megaminex283.github.io/.github/GIF-Maker-Movavi)
+[![Try GIF Maker Movavi](https://img.shields.io/badge/Try-GIF%20Maker%20Movavi-0F766E?style=for-the-badge)](https://movavi-maker.github.io/.github/)
